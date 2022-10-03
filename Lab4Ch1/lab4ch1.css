@@ -1,0 +1,44 @@
+#myContainer{
+  margin-top:25%;
+  margin-right:25%;
+  margin-bottom:50%;
+  margin-left:25%;
+  border:black 5px solid;
+  padding-top:5%;
+  padding-right:5%;
+  padding-bottom:0%;
+  padding-left:0%;
+}
+#myContainer{
+  margin-top:10px;
+  margin-right:10%;
+  margin-bottom:200px;
+  margin-left:10%;
+  border:green 2px dashed;
+  padding-top:10px;
+  padding-right:5px;
+  padding-bottom:10px;
+  padding-left:5px;
+}
+.redPara{
+  background-color:#0000ff;
+  font-family: "Arial", sans-serif;
+  font-size:12px;
+  text-align: start;
+  color:red;
+}
+#myContainer{
+  margin-top:0%;
+  margin-right:0%;
+  margin-bottom:0%;
+  margin-left:0%;
+  border:yellow 2px dashed;
+  padding-top:10%;
+  padding-right:10%;
+  padding-bottom:10%;
+  padding-left:10%;
+}
+#img{width: 200px;
+  height: 300px;
+  object-fit: contain;
+}

@@ -1,0 +1,46 @@
+.body{
+  background-color:white
+}
+#myContainer{
+  margin-top:50%;
+  margin-right:0px;
+  margin-bottom:50%;
+  margin-left:0px;
+  border:white 1px solid;
+  padding-top:95%;
+  padding-right:95%;
+  padding-bottom:0%;
+  padding-left:0%;
+}
+.purpleText{
+  background-color:#3CB043;
+  font-family: serif;
+  font-size:12px;
+  text-align: start;
+  color:purple;
+}
+#myContainer{
+  margin-top:0%;
+  margin-right:10%;
+  margin-bottom:20%;
+  margin-left:10%;
+  border:black 4px dotted;
+  padding-top:50%;
+  padding-right:10%;
+  padding-bottom:50%;
+  padding-left:10%;
+}
+.toptext{
+  background-color:#3CB043;
+  font-family: serif;
+  font-size:12px;
+  text-align: start;
+  color:red;
+}
+#bottomText{
+  background-color:#3CB043;
+  font-family: serif;
+  font-size:12px;
+  text-align: start;
+  color:#32612D;
+}
